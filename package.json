@@ -16,12 +16,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mgmckinn/oh-note-mg.git"
+        "url": 
     },
     "author": "Mitchell McKinney",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/mgmckinn/oh-note-mg/issues"
+        "url": 
     },
     "homepage": "https://github.com/mgmckinn/oh-note-mg#readme"
 }
