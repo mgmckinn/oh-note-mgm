@@ -1,12 +1,17 @@
 {
     "dependencies": {
-        "express": "^4.17.3"
+        "ajax": "^0.0.4",
+        "express": "^4.17.3",
+        "font-awesome": "^4.7.0",
+        "heroku": "^7.59.3",
+        "jquery": "^3.6.0"
     },
     "name": "oh-note-mg",
     "description": "note app",
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
+        "start": "node server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
