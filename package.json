@@ -4,7 +4,8 @@
         "express": "^4.17.3",
         "font-awesome": "^4.7.0",
         "heroku": "^7.59.3",
-        "jquery": "^3.6.0"
+        "jquery": "^3.6.0",
+        "uuid": "^8.3.2"
     },
     "name": "oh-note-mg",
     "description": "note app",
@@ -16,7 +17,6 @@
     },
     "repository": {
         "type": "git"
-        
     },
     "author": "Mitchell McKinney",
     "license": "MIT",
